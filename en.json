@@ -204,7 +204,7 @@
     "reload": "\/me Be right back.",
     "removenotinwl": "\/me [@%%NAME%%] Specified user @%%USERNAME%% is not in the waitlist.",
     "roomrules": "\/me Please find the room rules here: %%LINK%%",
-    "supportLink": "\/me Fill free to contact us here: %%LINK%%",
+    "supportmsg": "\/me Fill free to contact us here: %%LINK%%",
     "xphelp": "/me  [%%NAME%%][!xphelp]You gain XP every 5 minutes that you spend on the site, up to a maximum of 6 hours per day (resets at midnight GMT). More info on XP and points here: http://goo.gl/Qsz0lQ",
     "help": "/me  [%%NAME%%][!help]Create a playlist and populate it with songs from either YouTube or Soundcloud. Click the 'Join Waitlist' button and wait your turn to play music. Ask a bouncer if you're unsure about your song choice.",
     "sessionstats": "\/me [@%%NAME%%] Total woots: %%WOOTS%%, total mehs: %%MEHS%%, total grabs: %%GRABS%%.",
