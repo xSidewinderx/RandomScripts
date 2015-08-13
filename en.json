@@ -155,7 +155,7 @@
     "nouserpizza": "/em doesn't see %%NAME%% in room and eats a pizza himself.",
     "selfpizza": "/me @%%NAME%%, you're a bit greedy, aren't you? Giving pizzas to yourself, bah. Share some with other people!",
     "pizza": "/me @%%NAMETO%%, @%%NAMEFROM%% %%PIZZA%%",
-    "eatlove": "/me [%%NAMEFROM%%] Loves everyone in the room :heartpulse:.",
+    "eatlove": "/me [@%%NAMEFROM%%] Loves everyone in the room :heartpulse:.",
     "selfpizza": "/me @%%NAME%%, you're a bit greedy, aren't you? Loving only yourself, bah. Share some love with other people!",
     "love": "/me @%%NAMETO%%, @%%NAMEFROM%% %%LOVE%%",
     "eattaco": "/me eats a taco.",
