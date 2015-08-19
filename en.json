@@ -64,6 +64,8 @@
     "datarestored": "Previously stored data successfully retrieved.",
     "greyuser": "Only bouncers and up can run a bot.",
     "bouncer": "The bot can't move people when it's run as a bouncer.",
+    "rdj": "Resident DJs have no moderation privileges.This role is usually given to artists, promoters or friends of the Community Staff ",
+    "bouncer2": "Bouncers are people you trust to maintain order in the community, and a community can have an unlimited number of Bouncers. They can add/remove DJs, force skip, ban people from the community and delete offensive chat messages.",
     "online": "\/me %%BOTNAME%% v%%VERSION%% online!",
     "welcome": "\/me Welcome %%NAME%%",
     "welcomeback": "\/me Welcome back, %%NAME%%",
